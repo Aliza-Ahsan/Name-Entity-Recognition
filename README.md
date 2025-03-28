@@ -4,10 +4,10 @@ This project implements **Named Entity Recognition (NER)** using a deep learning
 
 ## Dataset
 **We use the Entity Annotated Corpus dataset, specifically the ner_dataset.csv file. This dataset contains:**
-** - Sentence #: Identifies sentences in the dataset. **
-** - Word: Individual words in the sentences. **
-** - POS: Part-of-Speech tags. **
-** - Tag: Named Entity Recognition (NER) labels.**
+- Sentence #: Identifies sentences in the dataset.
+- Word: Individual words in the sentences. 
+- POS: Part-of-Speech tags.
+- Tag: Named Entity Recognition (NER) labels.
 
 NER Tag	Count
 O (Non-entity)	887,908
