@@ -50,36 +50,27 @@ Construct an embedding matrix that maps words to vector representations.
 ## Requirements
 To run this project, install the following dependencies:
 
-bash
-Copy
-Edit
+```bash
 pip install numpy pandas matplotlib tensorflow gensim scikit-learn
-How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
+```
+## How to Run
+### 1. Clone the repository:
+```bash
 git clone https://github.com/your-username/NER-Project.git
 cd NER-Project
-Run the Jupyter Notebook or Python script:
-
-bash
-Copy
-Edit
+```
+### 2. Run the Jupyter Notebook or Python script:
+```bash
 python ner_training.py
-Train and evaluate the model.
+```
+### 3. Train and evaluate the model.
 
-Future Work
-Implement BiLSTM-CRF for better entity recognition.
+## Future Work
+- Implement BiLSTM-CRF for better entity recognition.
+- Use pretrained embeddings (e.g., FastText, GloVe).
+- Experiment with Transformer-based models (e.g., BERT, RoBERTa).
 
-Use pretrained embeddings (e.g., FastText, GloVe).
-
-Experiment with Transformer-based models (e.g., BERT, RoBERTa).
-
-Acknowledgments
-Dataset from Entity Annotated Corpus.
-
-Word embeddings generated using Word2Vec.
-
-Model trained using TensorFlow & Keras.
+## Acknowledgments
+- Dataset from Entity Annotated Corpus.
+- Word embeddings generated using Word2Vec.
+- Model trained using TensorFlow & Keras.
