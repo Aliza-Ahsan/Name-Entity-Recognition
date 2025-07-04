@@ -1,6 +1,6 @@
 # Named Entity Recognition (NER) using Word2Vec and TensorFlow
 ## Overview
-This project implements **Named Entity Recognition (NER)** using a deep learning-based approach. The dataset is preprocessed, tokenized, and embedded using Word2Vec, followed by training a sequence model using TensorFlow.**
+This project implements **Named Entity Recognition (NER)** using a deep learning-based approach. The dataset is preprocessed, tokenized, and embedded using Word2Vec, followed by training a sequence model using **TensorFlow.**
 
 ## Dataset
 **We use the Entity Annotated Corpus dataset, specifically the ner_dataset.csv file. This dataset contains:**
